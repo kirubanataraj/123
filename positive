@@ -1,0 +1,10 @@
+void main()
+{
+int n=5;
+if(n>0)
+{
+printf("the no is positive");
+else
+printf("the no is negative");
+}
+}
